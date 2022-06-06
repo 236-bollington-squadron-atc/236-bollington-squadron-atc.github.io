@@ -12,12 +12,7 @@
   link: /photos/?tab=albums
   target: _blank
 
-- name: Squadron News
+- name: 236 on Facebook
   facebook: true
   link: /posts/
-  target: _blank
-
-- name: Event Calendar
-  facebook: true
-  link: /events/
   target: _blank
