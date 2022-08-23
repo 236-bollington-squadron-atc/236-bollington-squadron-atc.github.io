@@ -16,7 +16,7 @@ description: >-
 
 It’s important to know that we’re not a recruiting organisation for the Services (but it’s great if you decide you want to join later on). We’re not interested in anything but you and your potential, and will help you get the most from your experience as a cadet.
 
-Worried about fitting in? Equality is a central part of the Air Cadets’ ethic. The cadet experience is open to everyone, so whatever your nationality, background or ability, whether you’re male or female, if you’re between 12 and 17 years old you can join us.
+Worried about fitting in? Equality and diversity are central to who we are. The cadet experience is open to everyone, so whatever your gender, sexuality, nationality, background or ability, if you’re between 12 and 17 years old you can join us.
 
 The maximum age for entry is 17 years old, therefore you can request to join us anytime from starting year eight up until your 17th birthday. If you don’t fit into that age group and still want to enjoy all of our activities and more, you could join as a volunteer. Find out more on in our Volunteer Section.
 
