@@ -176,8 +176,11 @@ body.sqn-website {
       }
 
       input {
-        line-height: 50px;
+        height: auto;
+        line-height: 43px;
         padding: 0 20px;
+        font-size: 18px;
+        border-radius: 0;
 
         &.invalid {
           border: 1px solid red;
