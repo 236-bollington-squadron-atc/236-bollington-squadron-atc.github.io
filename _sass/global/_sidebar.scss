@@ -1,5 +1,34 @@
 .sidebar {
 
+  a.find-us {
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    display: block;
+    line-height: 40px;
+    margin-bottom: 20px;
+    padding: 8px 10px 8px 56px;
+    text-decoration: none;
+
+    &:hover, &.fb:hover &.ig:hover {
+      background-color: lighten($colorPrimary, 75%);
+      color: $colorPrimary;
+    }
+
+    &.fb {
+      background-image: url('/assets/images/facebook.svg');
+      background-repeat: no-repeat;
+      background-position: 4px 8px;
+      background-size: 40px;
+    }
+
+    &.ig {
+      background-image: url('/assets/images/instagram.svg');
+      background-repeat: no-repeat;
+      background-position: 4px 8px;
+      background-size: 40px;
+    }
+  }
+
   .box {
 
     margin-bottom: 30px;

@@ -1,7 +1,32 @@
 {% include header.html %}
 
-<h1>{{ page.title }}</h1>
+<ul class="nav navbar-nav row">
+    {% for item in site.data.navigation %}
+    <li class="col-sm-2">
+        <a class="{% if page.url == item.link %}active{% endif %}" href="{% if item.facebook %}https://www.facebook.com/pg/{{ site.facebook }}{% endif %}{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>
+    </li>
+    {% endfor %}
+</ul>
 
-{{ content }}
-    
+<div class="row">
+    <div class="col-sm-8 col-xs-12 content">
+
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+    </div>
+
+    <div class="col-sm-4 col-xs-12 sidebar">
+        <a class="find-us fb" href="https://www.facebook.com/{{ site.facebook }}" />
+                Find us on Facebook
+        </a>
+
+        <a class="find-us ig" href="https://www.instagram.com/{{ site.instagram }}" />
+                Find us on Instagram
+        </a>
+    </div>
+</div>
+
+
 {% include footer.html %}

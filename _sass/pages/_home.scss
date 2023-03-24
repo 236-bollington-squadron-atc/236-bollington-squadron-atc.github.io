@@ -82,3 +82,57 @@
     padding: 1px;
   }
 }
+
+.welcome-block {
+
+  div {
+    padding: 30px 15px;
+
+    h2 {
+      margin: 0 0 15px 0;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+
+    a {
+      display: inline-block;
+      margin: 15px 0 0 0;
+      background: #fff;
+      text-decoration: none;
+      padding: 15px 30px;
+      border-radius: 5px;
+      border-bottom: 3px solid;
+      border-right: 3px solid;
+    }
+  }
+
+  &.join {
+    background: #4ea648;
+
+    div {
+      a {
+        border-color: darken(#4ea648, 10%);
+      }
+    }
+  }
+
+  &.volunteer {
+    background: #76d0f2;
+
+    div {
+      a {
+        border-color: darken(#76d0f2, 10%);
+      }
+    }
+  }
+
+  &.volunteer {
+    background: #76d0f2;
+
+    div {
+      a {
+        border-color: darken(#76d0f2, 10%);
+      }
+    }
+  }
+}

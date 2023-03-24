@@ -27,7 +27,7 @@
         <meta property="og:image" content="/assets/images/header.jpg">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="630">
-        
+
         <!-- TypeKit -->
         <script src="https://use.typekit.net/ufi2xqu.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -87,29 +87,9 @@
             }
         }
     </script>
-    <!-- Meta Pixel Code -->
-    <script>
-      !function(f,b,e,v,n,t,s)
-      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-      n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)}(window, document,'script',
-      'https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '744189473282060');
-      fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=744189473282060&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Meta Pixel Code -->
-    <meta name="facebook-domain-verification" content="ef8qau3l8f931ekmc23wda8pj171a1" />
 </head>
 
     <body class="sqn-website 75b4c">
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3"></script>
         <header class="header">
             <div class="container">
                 <div class="row">
@@ -143,7 +123,7 @@
             <div class="col-md-4 info-box">
                 <div class="info-box-inner">
                     <div class="row">
-                        
+
                         <div class="col-sm-4 col-md-12 col-lg-12">
                             <h2>Thinking of joining?</h2>
                             <a class="button" href="/join">Find out how</a>
@@ -164,14 +144,5 @@
     </div>
 
                 <div class="container main-container">
-    <ul class="nav navbar-nav row">
-        {% for item in site.data.navigation %}
-        <li class="col-sm-2">
-            <a class="{% if page.url == item.link %}active{% endif %}" href="{% if item.facebook %}https://www.facebook.com/pg/{{ site.facebook }}{% endif %}{{ item.link }}" target="{{ item.target }}">{{ item.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-                   
-            <div class="row">
-                <div class="col-sm-8 col-xs-12 content">
+
 

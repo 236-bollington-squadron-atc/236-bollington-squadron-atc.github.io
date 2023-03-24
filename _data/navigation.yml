@@ -6,13 +6,3 @@
 
 - name: Want to Join?
   link: /join
-
-- name: Photo Gallery
-  facebook: true
-  link: /photos/?tab=albums
-  target: _blank
-
-- name: 236 on Facebook
-  facebook: true
-  link: /posts/
-  target: _blank
