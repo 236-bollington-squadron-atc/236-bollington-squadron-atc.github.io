@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://www.236atc.co.uk/codes/static/css/main.f530256a.css",
-    "main.js": "https://www.236atc.co.uk/codes/static/js/main.612d90d6.js",
-    "static/js/787.bc5c7ea1.chunk.js": "https://www.236atc.co.uk/codes/static/js/787.bc5c7ea1.chunk.js",
-    "static/media/crest.svg": "https://www.236atc.co.uk/codes/static/media/crest.ce15b2730275f4123442a121b17b8dec.svg",
-    "index.html": "https://www.236atc.co.uk/codes/index.html",
-    "main.f530256a.css.map": "https://www.236atc.co.uk/codes/static/css/main.f530256a.css.map",
-    "main.612d90d6.js.map": "https://www.236atc.co.uk/codes/static/js/main.612d90d6.js.map",
-    "787.bc5c7ea1.chunk.js.map": "https://www.236atc.co.uk/codes/static/js/787.bc5c7ea1.chunk.js.map"
+    "main.css": "/static/css/main.4a2cca92.css",
+    "main.js": "/static/js/main.b3b03159.js",
+    "static/js/787.bc5c7ea1.chunk.js": "/static/js/787.bc5c7ea1.chunk.js",
+    "static/media/crest.svg": "/static/media/crest.ce15b2730275f4123442a121b17b8dec.svg",
+    "index.html": "/index.html",
+    "main.4a2cca92.css.map": "/static/css/main.4a2cca92.css.map",
+    "main.b3b03159.js.map": "/static/js/main.b3b03159.js.map",
+    "787.bc5c7ea1.chunk.js.map": "/static/js/787.bc5c7ea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f530256a.css",
-    "static/js/main.612d90d6.js"
+    "static/css/main.4a2cca92.css",
+    "static/js/main.b3b03159.js"
   ]
 }
