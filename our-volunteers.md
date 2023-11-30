@@ -37,6 +37,3 @@ Alan is the former Officer Commanding of 236 (Bollington) Squadron, following a 
 
 ## CI **Linton Foat**
 ### Civilian Instructor
-
-## CI **Mark Turner**
-### Civilian Instructor
