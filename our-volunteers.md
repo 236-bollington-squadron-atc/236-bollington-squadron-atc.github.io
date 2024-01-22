@@ -11,14 +11,9 @@ description: >-
 
 The Royal Air Force Air Cadets is staffed by volunteers, here are the people who run 236 Bollington Squadron Air Cadets.
 
-![Flt Lt Dan Cryer](/assets/images/dan.jpg){: .pull-left.staff}
-## Flight Lieutenant **Dan Cryer**
-### Officer Commanding
-Dan took over as Officer Commanding of 236 (Bollington) Squadron in January 2019. He has been volunteering with the squadron since 2015, progressing to Flight Lieutenant in 2021. Outside of the Air Cadets, Dan is a senior manager within the software development industry.
-
 ![Fg Off Emily Bethell](/assets/images/plt-off-emily-bethell.jpg){: .pull-left.staff.clear-left}
 ## Flying Officer **Emily Bethell**
-### Deputy Officer Commanding
+### Officer in Charge
 Emily started at 236 (Bollington) Squadron as a cadet at age 13. She progressed through the ranks to Cadet Warrant Officer before aging out, and becoming staff in 2017. Outside of cadets, Emily is studying Law at university in Manchester.
 
 ![Flt Lt Alan Bethell](/assets/images/alan.jpg){: .pull-left.staff.clear-left}
